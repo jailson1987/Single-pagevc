@@ -21,7 +21,7 @@ O arquivo principal `index.html` está organizado nas seguintes seções:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/jailson1987
+   git clone [https://github.com/jailson1987](https://github.com/jailson1987/Single-pagevc)
    ```
 2. Abra o arquivo `index.html` em qualquer navegador web.
 
