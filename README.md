@@ -24,7 +24,7 @@ O arquivo principal `index.html` está organizado nas seguintes seções:
    https://github.com/jailson1987/Single-pagevc/commit/91fff76bb87669be2d6a6e83b9d098bc6d2f1b3d
    ```
 2. Abra o arquivo `index.html` em qualquer navegador web.
-3. Link do Projeto: https://github.com/jailson1987/Single-pagevc
+3. Link do Projeto: https://jailson1987.github.io/Single-pagevc/
 
 ## 📄 Licença
 
