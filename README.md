@@ -22,9 +22,9 @@ O arquivo principal `index.html` está organizado nas seguintes seções:
 1. Clone este repositório:
    ```bash
    https://github.com/jailson1987/Single-pagevc/commit/91fff76bb87669be2d6a6e83b9d098bc6d2f1b3d
-   https://roadmap.sh/frontend/projects
    ```
 2. Abra o arquivo `index.html` em qualquer navegador web.
+3. Link do Projeto: https://github.com/jailson1987/Single-pagevc
 
 ## 📄 Licença
 
