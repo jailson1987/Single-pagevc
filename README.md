@@ -27,6 +27,7 @@ O arquivo principal `index.html` está organizado nas seguintes seções:
 2. Abra o arquivo `index.html` em qualquer navegador web.
 3. Link do Projeto: https://github.com/jailson1987/Single-pagevc
 https://jailson1987.github.io/Single-pagevc/
+https://roadmap.sh/projects/single-page-cv
 ## 📄 Licença
 
 Este projeto está sob a licença MIT - sinta-se à vontade para usá-lo como base para seu próprio currículo.
